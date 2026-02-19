@@ -148,28 +148,10 @@ st.markdown("""
         border-color: #004080;
     }
     
-    /* Sidebar corporativa */
+    /* Sidebar corporativa - MODIFICADA */
     .sidebar-corporate {
         background: #ffffff;
         border-right: 1px solid #eaeaea;
-    }
-    
-    .sidebar-header {
-        background: linear-gradient(135deg, #0066b3 0%, #004080 100%);
-        padding: 2rem 1.5rem;
-        margin-bottom: 1.5rem;
-    }
-    
-    .sidebar-header h3 {
-        color: white;
-        margin: 0;
-        font-weight: 500;
-    }
-    
-    .sidebar-header p {
-        color: rgba(255,255,255,0.8);
-        margin: 0.25rem 0 0 0;
-        font-size: 0.85rem;
     }
     
     /* Divisores */
@@ -254,12 +236,12 @@ st.markdown("""
 <div class="accent-bar"></div>
 """, unsafe_allow_html=True)
 
-# ---------- SIDEBAR CORPORATIVA ----------
+# ---------- SIDEBAR MODIFICADA (SOLO ESTA PARTE CAMBIA) ----------
 with st.sidebar:
     st.markdown("""
-    <div class="sidebar-header">
-        <h3>⚙️ Panel de Control</h3>
-        <p>Configuración del análisis</p>
+    <div style="padding: 0rem 0rem 1rem 0rem; border-bottom: 2px solid #0066b3;">
+        <h3 style="color: #000000; margin:0; font-weight: 600;">⚙️ Panel de Control</h3>
+        <p style="color: #666666; margin:0.25rem 0 0 0; font-size: 0.85rem;">Configuración del análisis</p>
     </div>
     """, unsafe_allow_html=True)
     
@@ -279,7 +261,7 @@ with st.sidebar:
         </div>
         """, unsafe_allow_html=True)
     
-    st.markdown("<div class='divider-corporate'></div>", unsafe_allow_html=True)
+    st.markdown("<hr style='margin: 1.5rem 0; border-color: #eaeaea;'>", unsafe_allow_html=True)
     
     # Parámetros
     st.markdown("#### 🎯 Parámetros")
@@ -299,7 +281,7 @@ with st.sidebar:
         help="Intervalo de confianza para las predicciones"
     )
     
-    st.markdown("<div class='divider-corporate'></div>", unsafe_allow_html=True)
+    st.markdown("<hr style='margin: 1.5rem 0; border-color: #eaeaea;'>", unsafe_allow_html=True)
     
     # Configuración avanzada
     with st.expander("⚙️ Configuración avanzada", expanded=False):

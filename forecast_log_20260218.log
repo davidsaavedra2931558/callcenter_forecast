@@ -47,3 +47,30 @@
 2026-02-18 21:37:29,673 - INFO - Prophet completado
 2026-02-18 21:37:30,018 - INFO - XGBoost completado
 2026-02-18 21:37:57,988 - INFO - LSTM completado
+2026-02-18 21:53:05,553 - WARNING - From C:\Users\david\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-02-18 21:59:20,450 - WARNING - From C:\Users\david\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-02-18 21:59:53,037 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:59:53,064 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 21:59:58,482 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:59:58,487 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 22:00:01,101 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 22:00:01,106 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 22:00:11,172 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 22:00:11,183 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 22:00:16,721 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 22:00:16,726 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 22:00:17,714 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 22:00:17,714 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 22:00:24,847 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 22:00:24,859 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 22:00:27,224 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 22:00:27,233 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 22:00:29,265 - INFO - ARIMA/SARIMA completado
+2026-02-18 22:00:29,498 - INFO - Holt-Winters completado
+2026-02-18 22:00:29,882 - INFO - Chain [1] start processing
+2026-02-18 22:00:30,048 - INFO - Chain [1] done processing
+2026-02-18 22:00:30,381 - INFO - Prophet completado
+2026-02-18 22:00:30,791 - INFO - XGBoost completado
+2026-02-18 22:01:13,400 - INFO - LSTM completado
