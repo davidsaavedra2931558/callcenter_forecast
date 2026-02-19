@@ -1,0 +1,49 @@
+2026-02-18 20:55:55,495 - WARNING - From C:\Users\david\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-02-18 21:01:44,185 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:01:44,277 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 21:01:52,452 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:01:52,457 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 21:01:54,546 - INFO - ARIMA/SARIMA completado
+2026-02-18 21:01:54,820 - INFO - Holt-Winters completado
+2026-02-18 21:01:55,163 - INFO - Chain [1] start processing
+2026-02-18 21:01:55,834 - INFO - Chain [1] done processing
+2026-02-18 21:01:56,198 - INFO - Prophet completado
+2026-02-18 21:01:56,567 - INFO - XGBoost completado
+2026-02-18 21:02:28,037 - INFO - LSTM completado
+2026-02-18 21:03:19,670 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:03:19,672 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 21:10:13,475 - WARNING - From C:\Users\david\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-02-18 21:10:42,928 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:10:42,946 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 21:14:55,941 - WARNING - From C:\Users\david\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-02-18 21:15:43,900 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:15:43,923 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 21:16:01,287 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:16:01,301 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 21:16:03,301 - INFO - ARIMA/SARIMA completado
+2026-02-18 21:16:03,567 - INFO - Holt-Winters completado
+2026-02-18 21:16:03,851 - INFO - Chain [1] start processing
+2026-02-18 21:16:04,386 - INFO - Chain [1] done processing
+2026-02-18 21:16:04,689 - INFO - Prophet completado
+2026-02-18 21:16:05,001 - INFO - XGBoost completado
+2026-02-18 21:16:36,099 - INFO - LSTM completado
+2026-02-18 21:16:59,480 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:16:59,489 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 21:19:56,623 - WARNING - From C:\Users\david\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-02-18 21:29:01,546 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:29:01,622 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 21:37:20,639 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:37:20,706 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 21:37:25,452 - INFO - Data preparada correctamente: 1484 registros
+2026-02-18 21:37:25,461 - INFO - Evaluación base - MAE: 149.15, RMSE: 179.49
+2026-02-18 21:37:27,445 - INFO - ARIMA/SARIMA completado
+2026-02-18 21:37:27,691 - INFO - Holt-Winters completado
+2026-02-18 21:37:28,077 - INFO - Chain [1] start processing
+2026-02-18 21:37:29,357 - INFO - Chain [1] done processing
+2026-02-18 21:37:29,673 - INFO - Prophet completado
+2026-02-18 21:37:30,018 - INFO - XGBoost completado
+2026-02-18 21:37:57,988 - INFO - LSTM completado
